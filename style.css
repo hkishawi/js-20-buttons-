@@ -1,0 +1,10 @@
+/* Add your css styles here */
+.somemargin {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    margin: 10px;
+    border-radius: 30em;
+    display: inline-block;
+    width: 4.5em;
+    height: 3em;
+    background-image:url("https://icon-library.com/images/salesforce-com-icon/salesforce-com-icon-17.jpg");
+}
